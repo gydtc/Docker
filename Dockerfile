@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/fluentd-elasticsearch:1.20
+FROM gcr.io/google_containers/fluentd-elasticsearch:1.20
